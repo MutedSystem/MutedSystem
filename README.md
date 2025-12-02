@@ -12,7 +12,6 @@ My work is centered around:
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, REST APIs, MySQL  
-- **Mobile:** React Native (Expo)  
 - **Other:** Git, SCRUM, CI/CD (basic), Accessibility (a11y), Performance optimization
 
 ### 🧪 Experiments & Learning
